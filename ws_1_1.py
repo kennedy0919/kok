@@ -1,2 +1,2 @@
-data = "\"c:\\python_project\\test\""
+data = "hello""
 print(data)
